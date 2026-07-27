@@ -2,7 +2,6 @@ import axios from "axios"
 
 export default class ApiService {
 
-   
     static BASE_URL = "https://stayease-hotel-backend.onrender.com"
 
     static getHeader() {
